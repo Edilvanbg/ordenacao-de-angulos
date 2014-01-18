@@ -69,7 +69,7 @@ void calculaAngulos(tVetPtos *vp)
      }
 }
 
-void ordenaPontos(int n, tVetPtos *ponto)
+void ordenaPontos(int n, tVetPtos *ponto)// ta dando problema nessa parte da ordenacao.
 {
 	int troca, i;
 	tVetPtos a, pv;
